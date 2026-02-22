@@ -10,7 +10,7 @@ def take_numbers():
         
         l.append(int(a))
     return l
-        
+        #
 
 def calculate(l):
     if len(l) == 0:
