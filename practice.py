@@ -14,6 +14,7 @@ def list_number():
         list.append(d)
 
     return list
+
    
 
 def calculate(list):
