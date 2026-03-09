@@ -1,7 +1,7 @@
 '''files = open("numbers.txt","w")
 files.write("hello jai shree ram \n")
 files.write("jai bhavani")
-files.close()'''
+files.close() '''
 
 def list_number():
     list =[]
@@ -31,3 +31,4 @@ filess.close()'''
 with open("number.txt",'w') as file:
     for i in a:
         file.write(str(i) + "\n")
+
